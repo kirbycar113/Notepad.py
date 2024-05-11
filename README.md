@@ -1,4 +1,4 @@
-# Notepad.py
+# README
 my python code for my notepad app
 please dont steal my code
 it took a long time
